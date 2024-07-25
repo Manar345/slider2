@@ -7,7 +7,7 @@ body {
   overflow-x: hidden;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-.container {
+.swiper-container {
   width: 85%;
   margin: 1rem auto;
 }
@@ -253,7 +253,7 @@ body {
   font-weight: 700;
 }
 @media (min-width: 992px) {
-  .container {
+  .swiper-container {
     width: 75%;
   }
 }
